@@ -27,6 +27,7 @@ Please enter an operation
 Bye  
 
 **Example of running the compiled program with the configuration file**:  
+ gcc -o comp.out ex21.c  
  gcc -o a.out ex22.c  
  ./a.out /home/os2021/conf.txt  
   
