@@ -1,12 +1,34 @@
 # Advanced-Files-Comparison
-**In this project we take the files comparison to the next level.**    
+### In this project we take the files comparison to the next level.  
+**This project is basically an automatic file checking system for teachers, so they can check all the program assignments they give to CS studesnt, with a configuration text of their own, which contains a path to the c program of the student, an input of its teacher choice, and a correct output that should be recieved.**    
+   
 *notice that in this project, we also use the executable file of the Files-Comparator repository. This executable file is called comp.out.*  
-In this project we have a **configuration file**, which we get as an argument to the main, that contains **3 lines**:
-1. **A path to a directory that contains sub-directories**. Each sub-directory represents a user, and suppose to contain a c file.  
-2. A path to a file that contains the **input**.  
-3. A path to a file that contains the **output**, according to the given input in line 2.  
   
+In this project we have a **configuration file**, which we get as an argument to the main, that contains **3 lines**:
+1. **A path to a directory that contains sub-directories** (student names for example). Each sub-directory represents a user, and suppose to contain a c file.  
+2. A path to a file that contains the **input** (for example, any input that comes to mind, so the teacher can check the program randomly).  
+3. A path to a file that contains the **output**, according to the given input in line 2 (the correct output that should recived from the program of the student with the input of the teacher for example).  
+  
+**Example of the configuration.txt file**:  
+/home/os2021/students  
+/home/os2021/io/input.txt  
+/home/os2021/io/output.txt  
 
+**Example of an input.txt file**:  
+1  
+5 4  
+4  
+  
+**Example of a correct_output.txt file**:  
+Please enter an operation  
+Please enter two numbers  
+The sum is 9  
+Please enter an operation  
+Bye  
+
+**Example of running the compiled program with the configuration file**:  
+ ./a.out /home/os2021/conf.txt  
+  
 **The program enters all sub-directories**, and should ignore all files that aren’t directories - if exists,  and to **search in each sub-directory a c file and to compile it**.  
 *notice that the program searches c files only in the path of the sub-directory itself, and not in deeper levels.*
 - The executable file (a.out as default) that we have got from the compilation process, should **run with the content input** that is in the input file we have in line 2 of the configuration file.  
