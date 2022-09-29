@@ -63,32 +63,27 @@ Chandler,75,SIMILAR
   
 ## Example of the automatic checking files system running:  
 **The configuration file:**  
-![image](https://user-images.githubusercontent.com/83518959/193104901-0de3e2db-9791-443d-855e-5159ed7ee6b9.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193104901-0de3e2db-9791-443d-855e-5159ed7ee6b9.png" width="600" height="100" />  
   
 **The input and correct output files:**  
-![image](https://user-images.githubusercontent.com/83518959/193104721-c676b58d-98d9-4114-9a64-2a3f05ec6d6e.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193104721-c676b58d-98d9-4114-9a64-2a3f05ec6d6e.png" width="600" height="100" />  
   
 **The results.csv and errors.txt files:**  
-![image](https://user-images.githubusercontent.com/83518959/193103565-85649ff3-4b8f-4942-918c-69809ec75fad.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193103565-85649ff3-4b8f-4942-918c-69809ec75fad.png" width="600" height="300" />   
   
 **The students c programs in sub directories:**  
-![image](https://user-images.githubusercontent.com/83518959/193103770-94bb29ab-cf44-41d2-a8ba-b02ff2fbbf63.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193103770-94bb29ab-cf44-41d2-a8ba-b02ff2fbbf63.png" width="450" height="650" />  
   
 **Programs examples of students:**  
 Excellent:  
-![image](https://user-images.githubusercontent.com/83518959/193105305-6dc5ecd8-bef7-4c76-9bac-34a783425780.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193105305-6dc5ecd8-bef7-4c76-9bac-34a783425780.png" width="600" height="150" />  
+ 
 
 Similar:  
-![image](https://user-images.githubusercontent.com/83518959/193105470-24dd9d9b-99cf-4a92-a76f-c11ac8781e21.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193105470-24dd9d9b-99cf-4a92-a76f-c11ac8781e21.png" width="600" height="150" />  
+
 
 Compilation Error:  
-![image](https://user-images.githubusercontent.com/83518959/193105577-1e45288c-830b-4d13-96c1-a22edad15a11.png)  
+<img src="https://user-images.githubusercontent.com/83518959/193105577-1e45288c-830b-4d13-96c1-a22edad15a11.png" width="600" height="150" />  
+
 etc.  
-
-
-
-
-
-
-
-
