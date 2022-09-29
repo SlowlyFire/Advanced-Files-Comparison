@@ -69,9 +69,9 @@ Chandler,75,SIMILAR
 **The input and correct output files:**  
 <img src="https://user-images.githubusercontent.com/83518959/193104721-c676b58d-98d9-4114-9a64-2a3f05ec6d6e.png" width="600" height="100" />  
   
-**The results.csv and errors.txt files:**  
-<img src="https://user-images.githubusercontent.com/83518959/193103565-85649ff3-4b8f-4942-918c-69809ec75fad.png" width="600" height="300" />   
-  
+**The results.csv and errors.txt files with all the compilation process:**  
+<img src="https://user-images.githubusercontent.com/83518959/193117599-d71fcddd-b6e3-485f-8655-2aebd8ab6f94.png" width="600" height="300" />  
+
 **The students c programs in sub directories:**  
 <img src="https://user-images.githubusercontent.com/83518959/193103770-94bb29ab-cf44-41d2-a8ba-b02ff2fbbf63.png" width="450" height="650" />  
   
