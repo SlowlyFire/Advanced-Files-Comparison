@@ -1,4 +1,4 @@
-# Advanced-Files-Comparison
+# Automatic-Checking-Files-System  
 ### In this project we take the files comparison to the next level.  
 **This project is basically an automatic file checking system for teachers, so they can check all the program assignments they give to CS studesnt, with a configuration text of their own, which contains a path to the c program of the student, an input of its teacher choice, and a correct output that should be recieved.**    
    
