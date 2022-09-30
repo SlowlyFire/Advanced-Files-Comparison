@@ -1,7 +1,7 @@
 # Automatic-Checking-Files-System  
 ### In this project we take the files comparison to the next level.  
 **This project is basically an automatic file checking system for teachers, so they can check all the program assignments they give to CS studesnt, with a configuration text of their own.  
-The configuration text contains a path to the c program of the student, an input of its teacher choice that the student's program will get as an arguments, and a correct output that should be recieved.**    
+The configuration text contains a path to the c program of the student, an input of its teacher choice that the student's program will get as an argument, and a correct output that should be recieved.**    
    
 *notice that in this project, we also use the executable file of the Files-Comparator repository. This executable file is called comp.out.*  
   
